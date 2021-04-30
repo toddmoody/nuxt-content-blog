@@ -30,6 +30,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxt/content'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
